@@ -1,7 +1,6 @@
 #This module responisble to fetch information from crt.sh site
 import requests
 import os
-from bs4 import BeautifulSoup
 import re
 site = 'https://crt.sh/?q='
 
